@@ -5,18 +5,16 @@ import About from "./components/About"
 import Footer from "./components/Footer"
 import Contact from "./components/Contact"
 import Main from "./components/Main"
-import Location from "./components/Location"
-// import Login from "./components/Login"
+import Login from "./components/Login"
 
 const App = () => {
 	return (
 		<div className="app">
-			<Navbar title="About" />
+			<Navbar />
 			<Main />
 			<About />
-			<Location />
-			{/* <Login /> */}
-			<Contact />
+			{/* <Login />
+			<Contact /> */}
 			<Footer />
 		</div>
 	)

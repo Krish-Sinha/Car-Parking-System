@@ -1,0 +1,140 @@
+.contact-main{
+    background-color: #e8b03f;
+    margin-left: 100px;
+    margin-right: 80px;
+    border-radius: 10px;
+    padding-bottom: 30px;
+}
+
+.contact-info{
+    margin-left: 50px;
+    margin-right: 50px;
+    padding-top: 50px;
+    padding-bottom: 70px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    font-size: 40px;
+}
+
+.icon{
+    padding-left: 200px;
+    display: flex;
+    gap: 500px;
+}
+
+.icon-info{
+    display: flex;
+    padding-left: 200px;
+    text-transform: uppercase;
+    gap: 450px;
+}
+
+.add-info{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+}
+
+.phone-info {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    padding-left: 8px;
+}
+
+.email-info {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    padding-left: 35px;
+}
+
+.address{
+    font-weight: bold;
+    display: flex;
+    margin-left: 140px;
+    gap: 320px;
+    padding-top: 10px;
+}
+
+.address-1 {
+    display: flex;
+    margin-left: 170px;
+    gap: 380px;
+}
+
+.address-2 {
+    display: flex;
+    margin-left: 170px;
+    gap: 380px;
+}
+
+.address-3 {
+    font-weight: bold;
+    display: flex;
+    margin-left: 140px;
+    gap: 320px;
+    padding-top: 30px;
+}
+
+.address-4 {
+    display: flex;
+    margin-left: 140px;
+    gap: 380px;
+}
+
+.address-5 {
+    display: flex;
+    margin-left: 150px;
+    gap: 340px;
+}
+
+.address-6 {
+    font-weight: bold;
+    display: flex;
+    margin-left: 670px;
+    gap: 340px;
+    padding-top: 30px;
+}
+
+.address-7 {
+    display: flex;
+    margin-left: 670px;
+    gap: 340px;
+}
+
+.address-8{
+    margin-left: 665px;
+}
+
+.address-9{
+    padding-top: 30px;
+    margin-left: 680px;
+    font-weight: bold;
+}
+
+.address-10 {
+    margin-left: 665px;
+}
+
+.message{
+    margin-left: 100px;
+    margin-right: 80px;
+    display: flex;
+}
+
+img{
+    width: 40%;
+    height: 60%;
+}
+
+.message-side{
+    padding-left: 200px;
+    padding-top: 60px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    font-size: 20px;
+    color: #e8b03f;
+}
+
+.contact{
+    padding-left: 200px;
+}
+
+.name-field{
+    padding-left: 200px;
+    padding-top: 20px;
+}

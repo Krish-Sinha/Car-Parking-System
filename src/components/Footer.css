@@ -1,0 +1,99 @@
+.footer-heading{
+    background-color: #6D2932;
+    color: #ffff;
+    height: 500px;
+    margin-left: 40px;
+    margin-right: 40px;
+    border-radius: 10px;
+}
+
+.footer{
+    display: flex;
+}
+
+.footer-main{
+    color: #ffff;
+    margin-left: 50px;
+    margin-top: 70px;
+}
+
+.footer-head{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    margin-bottom: 20px;
+    font-size: 20px;;
+}
+
+.footer-info{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.footer-info-second{
+    margin-top: 5px;
+}
+
+.margin-left-second{
+    margin-top: 15px;
+}
+
+.footer-second-main{
+    margin-left: 300px;
+}
+
+.footer-second{
+    margin-top: 70px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.footer-icons{
+    margin-left: 700px;
+    margin-top: 100px;
+    display: flex;
+}
+
+.footer-icons:hover{
+    cursor: pointer;
+}
+
+.footer-icons-gap{
+    margin-left: 30px;
+}
+
+.footer-last{
+    display: flex;
+    margin-top: 50px;
+}
+
+.terms{
+    margin-left: 640px;
+    background: none;
+    color: inherit;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.privacy{
+    margin-left: 40px;
+    background: none;
+        color: inherit;
+        border: none;
+        padding: 0;
+        font: inherit;
+        cursor: pointer;
+        outline: inherit;
+}
+
+.notice{
+    margin-left: 40px;
+    background: none;
+        color: inherit;
+        border: none;
+        padding: 0;
+        font: inherit;
+        cursor: pointer;
+        outline: inherit;
+}
+

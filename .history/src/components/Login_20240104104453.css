@@ -1,0 +1,24 @@
+.login-main{
+    margin-left: 100px;
+    margin-right: 80px;
+
+}
+
+.left-side{
+    background-color: #e8b03f;
+    width: 40%;
+    height: 500px;
+}
+
+.welcome{
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    color: #fffff0;
+    padding-top: 100px;
+    font-size: 30px;
+}
+
+.statement{
+    color: #fffff0;
+    padding-left: 190px;
+}

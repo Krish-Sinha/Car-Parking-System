@@ -1,0 +1,18 @@
+import React from 'react'
+import './Login.css'
+
+const Login = () => {
+  return (
+    <div className='login-main'>
+      <div className='left-side'>
+        <div className='welcome'>
+          Welcome Back!
+        </div>
+        <div className='statement'>Enter your personal details and start journey with us</div>
+      </div>
+      
+    </div>
+  )
+}
+
+export default Login

@@ -1,0 +1,21 @@
+.nav-heading{
+    color: black;
+    text-decoration: none;
+}
+
+.nav-ele{
+    display: flex;
+    font-weight:600;
+    font-size: 17px;
+}
+
+.nav-heading:hover{
+    color: #e8b03f;
+    transition: all 0.2s ease-in-out;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.nav{
+    margin-left: 550px;
+}
