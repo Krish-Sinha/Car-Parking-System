@@ -1,0 +1,9 @@
+.map{
+    width: 100%;
+    border-radius: 5px;
+}
+
+#main-map{
+    padding-top: 10px;
+    padding-bottom: 40px;
+}

@@ -1,0 +1,14 @@
+.nav-link{
+    text-decoration: none;
+    color: black;
+}
+
+.navbar-nav{
+    display: flex;
+}
+
+.navbar-nav{
+    justify-content: center;
+    margin-left: 250px;
+}
+
